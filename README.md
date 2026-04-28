@@ -106,15 +106,5 @@ Run the notebook top to bottom. Sections are:
 3. LSTM training & evaluation (Cells 29–38)
 4. Behavioral correlation analysis & visualizations (Cells 39–64)
 
-> **Note:** DistilBERT fine-tuning requires a GPU. Tested on a local machine with CUDA. On CPU it will run but slowly.
 
----
-
-## Team
-
-- **Aashvi Jain** (229310185)
-- **Ishika Jain** (229310410)
-
-B.Tech CSE (AIML), 6th Semester  
-Under the guidance of **Dr. Varun Tiwari**  
-Department of AIML, Manipal University Jaipur
+--
